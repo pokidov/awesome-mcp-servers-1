@@ -574,6 +574,7 @@ A growing set of community-developed and maintained servers demonstrates various
 
 ## Frameworks
 
+- **[AAA AGI](https://aaaai.me/)** - Autonomous AI Agent squad ecosystem with native desktop & mobile apps, local LLM support, and Model Context Protocol (MCP) server integration ([github.com/pokidov/aaaagi](https://github.com/pokidov/aaaagi)).
 - **[create-mcp-ts](https://github.com/stephencme/create-mcp-ts)** - Create a new MCP server in TypeScript, batteries included - supports user-defined templates!
 - **[LiteMCP](https://github.com/wong2/litemcp)** - A TypeScript framework for building MCP servers elegantly
 - **[mcp-framework](https://github.com/QuantGeekDev/mcp-framework)** - Fast and elegant Typescript framework for building MCP servers
